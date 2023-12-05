@@ -1,5 +1,8 @@
 streamlit
-pandas
-finance-dataReader
-matplotlib 
+finance-datareader
+matplotlib
 plotly
+pandas
+openpyxl
+beautifulsoup4
+html5lib
